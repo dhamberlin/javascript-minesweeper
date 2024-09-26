@@ -1,0 +1,11 @@
+# Mac crap
+.DS_Store
+.env
+nmp-debug.log
+
+#################
+## Directories
+#################
+
+bower_components
+node_modules
